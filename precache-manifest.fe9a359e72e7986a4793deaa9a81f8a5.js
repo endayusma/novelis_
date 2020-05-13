@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb6702753cdf7f8c5809222dd4d86730",
+    "revision": "e484c2fb983ab4258adeb72c4d2b1710",
     "url": "/novelis_/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/novelis_/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "17fdd7a39f3f1cf19c10",
-    "url": "/novelis_/static/css/main.00d72222.chunk.css"
+    "revision": "cca19c44dce6d1d94c39",
+    "url": "/novelis_/static/css/main.282b32d5.chunk.css"
   },
   {
     "revision": "f00e654ca2ce6de32983",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/novelis_/static/js/2.028b1056.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17fdd7a39f3f1cf19c10",
-    "url": "/novelis_/static/js/main.1ebefd63.chunk.js"
+    "revision": "cca19c44dce6d1d94c39",
+    "url": "/novelis_/static/js/main.c0e6bbfd.chunk.js"
   },
   {
     "revision": "763f7b18577d5cae7393",
