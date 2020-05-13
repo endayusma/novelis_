@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/novelis_/static/css/main.00d72222.chunk.css",
+    "main.js": "/novelis_/static/js/main.1ebefd63.chunk.js",
+    "main.js.map": "/novelis_/static/js/main.1ebefd63.chunk.js.map",
+    "runtime-main.js": "/novelis_/static/js/runtime-main.281af706.js",
+    "runtime-main.js.map": "/novelis_/static/js/runtime-main.281af706.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/novelis_/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.028b1056.chunk.js": "/novelis_/static/js/2.028b1056.chunk.js",
+    "static/js/2.028b1056.chunk.js.map": "/novelis_/static/js/2.028b1056.chunk.js.map",
+    "index.html": "/novelis_/index.html",
+    "precache-manifest.865d7dad9a9bce616f54c1b32461ca3e.js": "/novelis_/precache-manifest.865d7dad9a9bce616f54c1b32461ca3e.js",
+    "service-worker.js": "/novelis_/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/novelis_/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.00d72222.chunk.css.map": "/novelis_/static/css/main.00d72222.chunk.css.map",
+    "static/js/2.028b1056.chunk.js.LICENSE.txt": "/novelis_/static/js/2.028b1056.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.281af706.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.028b1056.chunk.js",
+    "static/css/main.00d72222.chunk.css",
+    "static/js/main.1ebefd63.chunk.js"
+  ]
+}
