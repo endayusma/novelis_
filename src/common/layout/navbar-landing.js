@@ -59,7 +59,7 @@ class Navbar extends Component {
           </Menu.Item>
           <Menu.Item key="history">
             <HistoryOutlined />
-            <Link to="/history">History</Link>
+            <Link to="/history">Recent Update</Link>
           </Menu.Item>
         </Menu.ItemGroup>
         </SubMenu>
