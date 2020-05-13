@@ -29,6 +29,7 @@ class Navbar extends Component {
 
   render() {
     return (
+      <center>
     <nav className="menuBar">
       <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
         <Menu.Item key="mail">
@@ -65,6 +66,7 @@ class Navbar extends Component {
         </SubMenu>
       </Menu>
     </nav>
+    </center>
     );
   }
 }
