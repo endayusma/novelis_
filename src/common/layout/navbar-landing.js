@@ -45,25 +45,7 @@ class Navbar extends Component {
           <Link to="/topnovel">Best Seller</Link>
         </Menu.Item>
         
-        <SubMenu
-          title={
-            <span className="ticket">
-              <MoreOutlined/>
-              More
-            </span>
-          }
-        >
-        <Menu.ItemGroup>
-          <Menu.Item key="buy">
-            <VerticalAlignBottomOutlined />
-            <Link to="/buynow">Add Novel</Link>
-          </Menu.Item>
-          <Menu.Item key="history">
-            <HistoryOutlined />
-            <Link to="/history">Recent Update</Link>
-          </Menu.Item>
-        </Menu.ItemGroup>
-        </SubMenu>
+        
       </Menu>
     </nav>
     </center>
